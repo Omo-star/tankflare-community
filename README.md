@@ -64,6 +64,8 @@ TankFlare tries to give useful planning guidance, but no automated checker can b
 
 ## Ways To Contribute
 
+Please check out the [contributing guide](CONTRIBUTING.md).
+
 There are two main contribution paths:
 
 ## 1. Open an Issue
@@ -86,16 +88,16 @@ Issues are discussion-first. They do not need to be perfect. If you noticed some
 
 Pull requests are best for structured corrections.
 
-Since the main app code is private, PRs in this repo should usually add or edit contribution files, not application code.
+Since the main app code is private, PRs in this repo should add or edit contribution files, not application code.
 
 Examples:
 
 ```txt
-corrections/species/otocinclus-algae-eater-care.md
-corrections/diseases/ich-treatment-temperature-note.md
-corrections/checker-reports/75-gallon-roseline-rainbowfish-load.md
-requests/species/celestial-pearl-danio.md
-requests/diseases/columnaris.md
+species/otocinclus-algae-eater-care.md
+diseases/ich-treatment-temperature-note.md
+checker-reports/75-gallon-roseline-rainbowfish-load.md
+species/celestial-pearl-danio.md
+diseases/columnaris.md
 ```
 
 A pull request here is a reviewable correction packet. If accepted, the TankFlare maintainer may manually import the change into the private TankFlare app, database, or content system.
