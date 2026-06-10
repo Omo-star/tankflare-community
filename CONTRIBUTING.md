@@ -5,7 +5,7 @@ Thanks for trying to contribute to TankFlare! Here's a step-by-step, easy to fol
 <details>
 <summary><strong>Step 0 - Prerequisites</strong></summary>
 1. **Computer**: Windows, macOS, or a Linux computer with a recommended minimum of 8GB RAM.
-2. **Internet**: A stable internet to make sure GitHub and Git run smoothly.
+2. **Internet**: A stable internet connection to make sure GitHub and Git run smoothly.
 3. **Email Account**: Needed to sign up for GitHub.
 4. **GitHub Account**:
    - Go to https://github.com/join.
@@ -15,7 +15,7 @@ Thanks for trying to contribute to TankFlare! Here's a step-by-step, easy to fol
    - macOS: Install Xcode Command Line Tools by running `xcode-select --install` in Terminal, or download from https://git-scm.com.
    - Linux: Use your package manager, e.g. `sudo apt install git`.
 6. **Install a Code Editor**: We recommend [VS Code](https://code.visualstudio.com/download). Download, run installer, accept defaults.
-> **Check setup**: Open Terminal/PowerShell and run git --version and node --version. Both should print versions. If not, reinstall.
+> **Check setup**: Open your terminal and run git --version. Git should print it's version. If not, reinstall.
 </details>
 
 ## Step 1 - Fork the TankFlare Repository
@@ -51,7 +51,7 @@ Thanks for trying to contribute to TankFlare! Here's a step-by-step, easy to fol
 3. Write directly into the GitHub editor, and use the **File Upload** feature to add images.
 4. Save the file with a short commit message of what you did, like "Added Neon Tetra species".
 
-Skip to [step 10](#step-10---open-a-pull-request-pr).
+Skip to [step 11](#step-11---open-a-pull-request-pr).
 
 <details>
 <summary><strong>3B - Local Edits</strong></summary>
@@ -62,7 +62,7 @@ Skip to [step 10](#step-10---open-a-pull-request-pr).
 
 You now have a fork on GitHub. Pull it into your computer:
 
-1. Copy the **HTTPS** URL (https://github.com/YOUR_USERNAME/tankflare-community.git
+1. Copy the **HTTPS** URL (https://github.com/YOUR_USERNAME/tankflare-community.git)
 2. Open your terminal and run:
 ```sh
 git clone https://github.com/YOUR_USERNAME/tankflare-community.git
@@ -181,7 +181,7 @@ If the JSON is valid, Python will print a formatted version of the file.
 
 If the JSON is broken, Python will show an error message telling you where the problem is.
 
-## Step 7 - Commit Your Changes
+## Step 8 - Commit Your Changes
 
 1. See what changed:
 
@@ -227,7 +227,7 @@ If that does not work, try:
 py --version
 ```
 
-## Step 8 - Sync With Upstream
+## Step 9 - Sync With Upstream
 
 If time passed since you forked:
 
@@ -241,7 +241,7 @@ git rebase main   # optional, keeps history clean
 
 Fix conflicts if Git reports any (VS Code highlights them). Save, stage, continue with `git rebase --continue`.
 
-## Step 9 - Push to Your Fork
+## Step 10 - Push to Your Fork
 
 ```bash
 git push origin your-branch
@@ -251,7 +251,7 @@ The first push may prompt you to sign in to GitHub via browser—follow the prom
 
 </details>
 
-## Step 10 - Open a Pull Request (PR)
+## Step 11 - Open a Pull Request (PR)
 
 1. Visit your fork on GitHub. You’ll see a banner suggesting to create a PR.
 2. Click **Compare & pull request**.
@@ -272,6 +272,8 @@ The first push may prompt you to sign in to GitHub via browser—follow the prom
    - Commit additional changes.
    - ```git push origin your-branch``` (push adds to same PR automatically).
 3. Celebrate when it’s merged 🎉
+
+### Quick Checklist
 
 - [ ] Created GitHub account + installed Git, Node.js, VS Code
 - [ ] Forked repository
