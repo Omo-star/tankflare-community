@@ -10,7 +10,9 @@ A regularly updated list of the features we plan to introduce in the near-future
 
 - **2D and 3D aquascaping tools**
 - **More plant/fish species**
-- **More community features**
+- **CO2 calculator**
+- **Plant fertilization dosing calculator**
+- **PAR/Light calculator**
 
 ## Planned Features
 
