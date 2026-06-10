@@ -1,5 +1,7 @@
 # TankFlare Feature Request Template Guide
 
+> **Please check out the [general contributing guide](https://github.com/Omo-star/tankflare-community/blob/main/CONTRIBUTING.md) first!**
+
 If your feature request is approved, the developers may add it to the roadmap. The time frame will be decided based on how much work the feature will take to implement.
 
 Please remember: **one feature per request**!
