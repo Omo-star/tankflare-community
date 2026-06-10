@@ -1,5 +1,7 @@
 # TankFlare Condition File Template Guide
 
+> **Please check out the [general contributing guide](CONTRIBUTING.md) first!**
+
 Each condition lives in its own `.json` file inside the `diseases/` folder of the repository.
 The app reads all files in that folder and uses the weights to score how likely
 each condition is for a given fish based on symptoms the user selects.
