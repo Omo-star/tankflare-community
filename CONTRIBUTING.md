@@ -28,16 +28,20 @@ Thanks for trying to contribute to TankFlare! Here's a step-by-step, easy to fol
 
 <details>
 <summary><strong>Fix an Issue</strong></summary>
+   
 1. Go to [Issues](https://github.com/Omo-star/tankflare-community/issues) in a new tab.
 2. Choose an existing issue that you want to fix. Beginner-friendly issues are kept [here](https://github.com/Omo-star/tankflare-community/issues?q=state%3Aopen%20label%3A%22good%20first%20issue%22).
 3. Scroll down and click the instructions link. Read these instructions carefully!
+   
 </details>
 
 <details>
 <summary><strong>Create an Issue</strong></summary>
+   
 1. Go to [Issues](https://github.com/Omo-star/tankflare-community/issues) in a new tab.
 2. Click **New Issue**, then choose one of the templates.
 3. Fill out the template, and follow the instructions.
+   
 </details>
 
 ## Step 3 - Choose your workflow
